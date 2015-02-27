@@ -49,3 +49,10 @@ $ grunt --help
 ```
 
 This will list the available tasks.
+
+## Goals
+
+1. Understand structure of express applications
+2. Make initial Post tests pass
+3. Add comments to posts - how should they associate?
+4. Style how you see fit!
